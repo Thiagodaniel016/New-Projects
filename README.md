@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Meu primeiro projeto" src=".github/preview.jpg" width="100%">
+  <img alt="Meu primeiro projeto" src="./assets/github.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
