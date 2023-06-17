@@ -21,20 +21,20 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <h2>Layout Desktop</h2>
 
 <p align="center">
-  <img alt="Desktop / Dark mode" src="./assets/desktop%20noite.svg" width="100%">
+  <img alt="Desktop / Dark mode" src="./assets/desktop%20noite.svg" width="1440px" height="1024px">
 </p>
 <p align="center">
-  <img alt="Desktop / Light mode" src="./assets/desktop%20dia.svg" width="100%">
+  <img alt="Desktop / Light mode" src="./assets/desktop%20dia.svg" width="1440px" height="1024px">
 </p>
 <pre> 
 </pre>
 <h2>Layout Mobile</h2>
 
 <p align="center">
-  <img alt="Mobile / Dark mode" src="./assets/mobile%20noite.svg" width="50%">
+  <img alt="Mobile / Dark mode" src="./assets/mobile%20noite.svg" width="360px" height="800px">
 </p>
 <p align="center">
-  <img alt="Mobile / Light mode" src="./assets/mobile%20dia.svg" width="50%">
+  <img alt="Mobile / Light mode" src="./assets/mobile%20dia.svg"width="360px" height="800px">
 </p>
 
 ## 🚀 Tecnologias
