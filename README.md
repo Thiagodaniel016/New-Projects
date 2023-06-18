@@ -23,13 +23,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <p>Desktop / Dark mode</p>
 
 <p align="center">
-  <img alt="Desktop / Dark mode" src="./assets/desktop%20noite.svg" width="100%">
+  <img alt="Desktop / Dark mode" src="./assets/Desktop%20-%20Dark%20mode.png" width="100%">
 
   <p>Desktop / Light mode</p>
 
 </p>
 <p align="center">
-  <img alt="Desktop / Light mode" src="./assets/desktop%20dia.svg" width="100%">
+  <img alt="Desktop / Light mode" src="./assets/Desktop%20-%20Light%20Mode.png" width="100%">
 </p>
 <pre> 
 </pre>
@@ -59,7 +59,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Esse projeto é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online] (https://primeiroprojeto-delta.vercel.app/)
 
