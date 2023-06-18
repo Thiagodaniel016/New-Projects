@@ -39,13 +39,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <p>Mobile / Dark mode</p>
 
 <p align="center">
-  <img alt="Mobile / Dark mode" src="./assets/mobile%20noite.svg" width="100%">
+  <img alt="Mobile / Dark mode" src="./assets/Mobile%20-%20Dark%20mode.jpg">
 
 <p>Mobile / Light mode</p>
 
 </p>
 <p align="center">
-  <img alt="Mobile / Light mode" src="./assets/mobile%20dia.svg"width="100%">
+  <img alt="Mobile / Light mode" src="./assets/Mobile%20-%20Light%20mode.jpg">
 </p>
 
 ## 🚀 Tecnologias
